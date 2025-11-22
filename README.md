@@ -1,6 +1,6 @@
 Employee & Department Management Using Python + MySQL
 
-This mini-project demonstrates how to:
+This project demonstrates how to:
 Connect Python to MySQL
 Create databases & tables
 Insert bulk datasets (50+ records)
